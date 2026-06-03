@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack/Automação`**
 
-Tenho 24 anos, sou estudante de Sistemas de Informação  na Puc Minas e um entusiasta de tecnologia focado em transformar ideias complexas em soluções reais. Minha jornada na programação é guiada por duas grandes paixões: o Desenvolvimento Full Stack e a Automação.Acredito que o código serve para resolver problemas reais e otimizar nosso tempo. Por isso, gosto de atuar nos dois lados da moeda: desde a construção de aplicações web modernas, funcionais e com boas interfaces, até a criação de robôs e scripts de automação que trabalham nos bastidores (como raspagem de dados, manipulação de interfaces e bots de interação).
+Tenho 24 anos, sou estudante de Sistemas de Informação  na Puc Minas e um entusiasta de tecnologia focado em transformar ideias complexas em soluções reais. Minha jornada na programação é guiada por duas grandes paixões: o Desenvolvimento Full Stack e a Automação. Acredito que o código serve para resolver problemas reais e otimizar nosso tempo. Por isso, gosto de atuar nos dois lados da moeda: desde a construção de aplicações web modernas, funcionais e com boas interfaces, até a criação de robôs e scripts de automação que trabalham nos bastidores (como raspagem de dados, manipulação de interfaces e bots de interação).
 Atualmente, dedico meu tempo a aprimorar minhas habilidades na construção de sistemas completos, explorando integrações com IA e desenvolvendo projetos que agreguem valor prático.
 
 O que você vai encontrar por aqui:
